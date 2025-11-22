@@ -1,0 +1,7 @@
+timestamp,ip,username,event,bytes
+2025-11-01T08:12:01,192.0.2.10,alice,login_success,0
+2025-11-01T08:12:05,198.51.100.5,alice,download,2048
+2025-11-01T08:13:01,203.0.113.7,bob,login_failed,0
+2025-11-01T08:13:02,203.0.113.7,bob,login_failed,0
+2025-11-01T08:13:03,203.0.113.7,bob,login_failed,0
+2025-11-01T08:14:00,198.51.100.5,alice,download,1048576
